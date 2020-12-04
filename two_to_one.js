@@ -28,3 +28,6 @@ console.log(longest(s1, s2))
 
 
 // const longest = (s1, s2) => [...new Set(s1+s2)].sort().join('')
+
+// Set objects are collections of values. You can iterate through the elements of a set in insertion order. 
+// A value in the Set may only occur once; it is unique in the Set's collection.
